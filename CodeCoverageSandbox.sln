@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCoverageSandbox", "CodeCoverageSandbox\CodeCoverageSandbox.csproj", "{F16DF3DC-2F55-428E-BE14-12A8EB1182E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCoverageSandboc.Tests", "CodeCoverageSandboc.Tests\CodeCoverageSandboc.Tests.csproj", "{DEFE3639-FF89-4A80-BC4E-D1ADBBFFA632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16DF3DC-2F55-428E-BE14-12A8EB1182E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16DF3DC-2F55-428E-BE14-12A8EB1182E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16DF3DC-2F55-428E-BE14-12A8EB1182E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16DF3DC-2F55-428E-BE14-12A8EB1182E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFE3639-FF89-4A80-BC4E-D1ADBBFFA632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFE3639-FF89-4A80-BC4E-D1ADBBFFA632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFE3639-FF89-4A80-BC4E-D1ADBBFFA632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFE3639-FF89-4A80-BC4E-D1ADBBFFA632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
